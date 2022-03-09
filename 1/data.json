@@ -1,0 +1,28 @@
+{
+  "bt": [
+    {
+      "btId": 1,
+      "bt_start_date": "2021,05,02",
+      "bt_finish_date": "2021,06,04",
+      "bt_days_count": 34
+    },
+    {
+      "btId": 2,
+      "bt_start_date": "2021,08,15",
+      "bt_finish_date": "2021,09,17",
+      "bt_days_count": 34
+    },
+    {
+      "btId": 3,
+      "bt_start_date": "2021,10,24",
+      "bt_finish_date": "2021,11,05",
+      "bt_days_count": 13
+    },
+    {
+      "btId": 4,
+      "bt_start_date": "2021,02,03",
+      "bt_finish_date": "2021,03,26",
+      "bt_days_count": 52
+    }
+  ]
+}
